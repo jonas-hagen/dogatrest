@@ -1,0 +1,7 @@
+{
+  "test-1bce5bad2b91": {
+    "interval": 1,
+    "hook": "https://fleep.io/hook/xxxxxxxxxxxxxx",
+    "name": "Test"
+  }
+}
